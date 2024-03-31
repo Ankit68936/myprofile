@@ -1,3 +1,21 @@
 #myText{
     font-size: 35px;
 }
+.profile_head{
+    font-size: 55px;
+
+}
+.profile_name1{
+    font-size: 55px;
+    color: #25A7B6;
+
+}
+.profile_name2{
+    font-size: 55px;
+    margin-left: 10px;
+    color: #25A7B6;
+
+}
+.btn1{
+    background-color: #25A7B6 !important;
+}
